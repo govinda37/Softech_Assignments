@@ -1,0 +1,8 @@
+C:\Users\ic\source\repos\Binary_Tree_Search\Binary_Tree_Search\bin\Debug\Binary_Tree_Search.exe.config
+C:\Users\ic\source\repos\Binary_Tree_Search\Binary_Tree_Search\bin\Debug\Binary_Tree_Search.exe
+C:\Users\ic\source\repos\Binary_Tree_Search\Binary_Tree_Search\bin\Debug\Binary_Tree_Search.pdb
+C:\Users\ic\source\repos\Binary_Tree_Search\Binary_Tree_Search\obj\Debug\Binary_Tree_Search.csproj.AssemblyReference.cache
+C:\Users\ic\source\repos\Binary_Tree_Search\Binary_Tree_Search\obj\Debug\Binary_Tree_Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\ic\source\repos\Binary_Tree_Search\Binary_Tree_Search\obj\Debug\Binary_Tree_Search.csproj.CoreCompileInputs.cache
+C:\Users\ic\source\repos\Binary_Tree_Search\Binary_Tree_Search\obj\Debug\Binary_Tree_Search.exe
+C:\Users\ic\source\repos\Binary_Tree_Search\Binary_Tree_Search\obj\Debug\Binary_Tree_Search.pdb
